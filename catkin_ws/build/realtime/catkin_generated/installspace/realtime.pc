@@ -1,0 +1,8 @@
+prefix=/home/riley/catkin_ws/install
+
+Name: realtime
+Description: Description of realtime
+Version: 0.0.0
+Cflags: -I/home/riley/catkin_ws/install/include
+Libs: -L/home/riley/catkin_ws/install/lib 
+Requires: message_runtime

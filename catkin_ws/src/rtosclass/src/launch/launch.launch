@@ -1,0 +1,6 @@
+<launch>
+<node name="n_mainoutnodeC" pkg="rtosclass" type="n_mainoutnodeC" output="screen"/>
+<node name="n_delaypublishC" pkg="rtosclass" type="n_delaypublishC" />
+<node name="n_catchdelayC" pkg="rtosclass" type="n_catchdelayC" />
+<node name="n_timerdelayC" pkg="rtosclass" type="n_timerdelayC" />
+</launch>
